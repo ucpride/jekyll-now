@@ -18,15 +18,15 @@ avatar: https://www.evernote.com/l/AAbeFWXWrctAf5ArQOLIVJ9Zrw_DneYNMF0B/image.pn
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: ucpridetn@gmail.com
+  facebook: uppercumberlandpride
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: ucpride/ucpride.github.io
+  instagram: ucpridetn
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: ucpridetn
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
