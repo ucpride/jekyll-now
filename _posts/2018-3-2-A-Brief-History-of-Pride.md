@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vendors from Pride 2017
+title: A Brief History of Pride
 ---
 
 A brief history of the Upper Cumberland PRIDE festival:
