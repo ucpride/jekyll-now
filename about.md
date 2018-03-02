@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This site is maintained by the board of Upper Cumberland PRIDE.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We welcome volunteers, ideas, and active participation in festival planning.  If you're interested in participating, no matter who you are and what you want to contribute, we would love to talk to you!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ucpridetn@gmail.com](mailto:ucpridetn@gmail.com)
