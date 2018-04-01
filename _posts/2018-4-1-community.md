@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pageant Winners from Pride 2017
+title: UC PRIDE Community
 ---
 
 Some selected photos of our community from Pride 2017:
