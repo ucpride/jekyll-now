@@ -15,6 +15,5 @@ JPEG format, page 2:
 PDF format: [here][1]
 [1]:{{ site.url }}/images/pride-2018-vendor-form.pdf
 
-DOCX format: [here][2]
-[2]:{{ site.url }}/images/ucpridevendorcontract_2018.docx
+DOCX format: [here]{{ site.url }}{{% link /images/ucpridevendorcontract_2018.docx %}}
 
