@@ -13,8 +13,8 @@ JPEG format, page 2:
 ![_config.yml]({{ site.baseurl }}/images/pride-2018-vendor-form-p2.jpg)
 
 PDF format:
-![_config.yml]({{ site.baseurl }}/images/pride-2018-vendor-form.pdf)
+({{ site.baseurl }}/images/pride-2018-vendor-form.pdf)
 
 DOCX format:
-![_config.yml]({{ site.baseurl }}/images/ucpridevendorcontract_2018.docx)
+({{ site.baseurl }}/images/ucpridevendorcontract_2018.docx)
 
